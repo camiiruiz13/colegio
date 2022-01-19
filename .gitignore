@@ -43,3 +43,4 @@ HEAD
 
 #Exclusion Folders
 /bin 
+*.xml
